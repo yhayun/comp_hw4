@@ -1,0 +1,6 @@
+
+//not valid assignment:
+void main() { 
+	int a;
+	int c = true;
+}

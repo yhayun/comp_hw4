@@ -1,0 +1,27 @@
+void main() { 
+	bool a; 
+	bool c;
+	bool d;
+
+	if (a and c) 
+	if (a or c) 
+	if (not a)
+	while (a and c)
+	while (a or c) 
+	while (not c) {
+		return;
+	}
+	
+	c = a and c;
+	c = a or c;
+	c = not a;
+
+	d = a and c;
+	d = a or c;
+	d = not c;
+
+	d = not true;
+	d = not false;
+	
+
+}

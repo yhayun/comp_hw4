@@ -1,0 +1,6 @@
+void main() {
+
+	switch("aaa") {
+		case 2: return; break;
+	};
+}

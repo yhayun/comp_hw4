@@ -1,0 +1,7 @@
+void main() {
+	int a;
+	bool c;
+
+	int e  = 
+	a * c;
+}

@@ -1,0 +1,20 @@
+---end scope---
+d INT 1
+---end scope---
+d INT 1
+---end scope---
+d BOOL 1
+---end scope---
+d INT 1
+---end scope---
+d BYTE 1
+---end scope---
+d INT 1
+---end scope---
+d INT 1
+---end scope---
+d INT 1
+---end scope---
+c INT 0
+---end scope---
+main ()->VOID 0

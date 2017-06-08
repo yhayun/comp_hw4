@@ -1,0 +1,4 @@
+void main() { 
+	int c;
+	bool i = printi(1);
+}

@@ -1,0 +1,19 @@
+---end scope---
+---end scope---
+a INT -1
+---end scope---
+a INT -1
+---end scope---
+d INT 2
+---end scope---
+e INT 2
+---end scope---
+e INT 2
+---end scope---
+a INT 0
+c INT 1
+---end scope---
+func1 ()->VOID 0
+func2 (INT)->VOID 0
+func3 (INT)->INT 0
+main ()->VOID 0

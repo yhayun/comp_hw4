@@ -1,0 +1,5 @@
+//not valid assignment:
+void main() { 
+	int a;
+	a = "st";
+}

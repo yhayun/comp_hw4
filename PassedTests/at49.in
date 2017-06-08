@@ -1,0 +1,73 @@
+void good(){
+	int a =0;
+	int bb =1;
+	byte ii = 100 b;
+	byte oo = 101 b;
+	if(a!=bb){
+		bool c = a==bb;
+		bool cc = (ii==bb);
+		bool ccc = ((a==ii));		
+	}
+	else if(a<bb){
+		bool g = 100 b > 101 b;
+		bool f = 6>0 or 5<9;
+	}
+	else if(a>=bb){
+		int hh = a;		
+	}
+	else if(a <= bb){
+		while(a!=ii){
+			if( oo == a)
+				return;
+			else
+				break;
+		}
+		if(ii >= oo)
+			int ss=6;
+	} 
+	else if(a > bb){
+		byte hh = oo;
+	}
+	else{
+		while(oo != ii){
+			break;
+		}
+	}
+}
+
+void main(){
+	int a =0;
+	int bb =1;
+	byte ii = 100 b;
+	byte oo = 101 b;
+	if(ii!=oo){
+		bool c = ii==oo;
+		bool cc = (ii==bb);
+		bool ccc = ((a==ii));		
+	}
+	else if(ii<oo){
+		bool g = ii > a and a>ii;
+		bool f = a>ii or ii<a;
+	}
+	else if(ii>=oo){
+		int hh = ii;		
+	}
+	else if(ii <= oo){
+		while(a>=ii){
+			if( oo == a)
+				return;
+			else
+				break;
+		}
+		if(a<=ii)
+			bb=ii;
+	} 
+	else if(ii > oo){
+		byte hh = oo;
+	}
+	else{
+		while(oo != ii){
+			break;
+		}
+	}
+}

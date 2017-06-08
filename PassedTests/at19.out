@@ -1,0 +1,5 @@
+---end scope---
+cc BYTE 2
+---end scope---
+r INT 2
+line 6: type mismatch

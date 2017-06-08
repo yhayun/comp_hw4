@@ -1,0 +1,13 @@
+//should fail
+void printOk(bool isOk) {
+    if (isOk) print("ok");
+}
+
+void main()
+{
+	if(true)
+		int c =5;
+	if ( (true or false) and (4*2 < 7))
+		int d = 6;
+    int x = 4;
+}

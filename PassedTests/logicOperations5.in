@@ -1,0 +1,9 @@
+void main() { 
+	byte a; 
+	
+	bool d = 
+	not a;
+	if (not a) {
+		return;
+	}
+}

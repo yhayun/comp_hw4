@@ -1,0 +1,3 @@
+int ma(){
+	bool a = "a" or false;
+}

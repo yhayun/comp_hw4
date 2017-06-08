@@ -1,0 +1,9 @@
+---end scope---
+a INT -1
+check BOOL -2
+hh BYTE -3
+x INT 0
+---end scope---
+---end scope---
+good (INT,BOOL,BYTE)->VOID 0
+main ()->VOID 0

@@ -1,0 +1,11 @@
+void get(){
+	return;
+}
+
+void hi(){
+	return get();
+}
+
+void main(){
+	hi();
+}

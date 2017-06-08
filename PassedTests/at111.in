@@ -1,0 +1,3 @@
+int boo(int a, bool bb, byte u){
+	boo(true, 4, 100 b);
+}

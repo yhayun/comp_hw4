@@ -1,0 +1,14 @@
+void printOk(bool isOk) {
+    if (isOk) print("ok");
+    if (5 == 5) print("ok");
+	return;
+}
+
+void main()
+{
+    int x = 4;
+    byte y = 100 b;
+    printOk(x>y);
+    int z;
+    if (true) return; else {int jaja = 8; bool kaka = true;}// return;}
+}

@@ -1,0 +1,24 @@
+void well(int eee, bool ggg, byte iii){
+	while(true){
+		int bb=0;
+		break;
+		while(1>0){
+			bool r = (4+5 == 2);
+			break;
+			while(7>6 and 8<9){				
+				break;
+				break;
+			}
+			break;
+			byte c = 255 b;			
+		}
+		
+		print("stupid");
+		printi(5);
+		break;
+	}
+}
+
+void main(){
+	return;
+}

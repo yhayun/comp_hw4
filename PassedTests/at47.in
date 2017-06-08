@@ -1,0 +1,12 @@
+int good(byte aa, byte uu){
+	int a=9;
+	while(true){
+		int bb=8;
+		if(true){
+			a=9;
+			int a=9;
+		}
+	}
+	
+	return 100 b;
+}

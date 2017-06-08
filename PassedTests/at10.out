@@ -1,0 +1,6 @@
+---end scope---
+a INT -1
+c INT -2
+gg BYTE 0
+t BOOL 1
+line 10: type mismatch

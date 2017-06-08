@@ -1,0 +1,6 @@
+---end scope---
+a INT -1
+---end scope---
+---end scope---
+good (INT)->INT 0
+main ()->VOID 0

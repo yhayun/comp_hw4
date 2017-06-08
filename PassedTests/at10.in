@@ -1,0 +1,15 @@
+int good(int a, int c){
+	byte gg = 100 b;
+	bool t = true;
+	return a;
+}
+
+int bad(int a, int c){
+	byte gg = 100 b;
+	bool t = true;
+	return t;
+}
+
+void main(){
+	return 0;	
+}

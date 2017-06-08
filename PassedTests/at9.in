@@ -1,0 +1,7 @@
+int good(){
+	return;
+}
+
+void main(){
+	return;
+}

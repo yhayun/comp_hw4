@@ -1,0 +1,10 @@
+void main() { 
+	int a; 
+	bool c;
+
+	bool d = 
+	a or c;
+	if (a or c) {
+		return;
+	}
+}

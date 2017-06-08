@@ -1,0 +1,11 @@
+---end scope---
+a INT 0
+bbb INT 1
+c BYTE 2
+d BOOL 3
+---end scope---
+aa INT 0
+bb INT 1
+cc BYTE 2
+dd BOOL 3
+line 20: unexpected break statement

@@ -1,0 +1,7 @@
+void func(byte a) { 
+	return;
+}
+
+void main() {
+	func("aa");
+}

@@ -1,0 +1,7 @@
+
+//not valid assignment:
+void main() { 
+	byte a;
+	bool c;
+	a = c;
+}

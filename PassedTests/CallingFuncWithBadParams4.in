@@ -1,0 +1,8 @@
+void func(int a) {
+	return;
+}
+
+void main() { 
+	int c;
+	func(c,c); //wrong number of params
+}

@@ -1,0 +1,22 @@
+//Check "if" and "else" open new scope when we define variables and we open a new scope
+// same as ifElse1.in but also all variables in different scope has the same name
+void main() {
+	int c;
+	if (3 == 3) 
+	   int d = 2;
+	if (4 == 4) { 
+		int d = 5;
+	}
+	if (2 == 2) { 
+		bool d;
+	}
+    else int d;
+	if (2 == 2) { 
+		byte d;
+	}
+    else int d;
+	if (2 == 2) { 
+		int d;
+	}
+    else int d = 2;
+}

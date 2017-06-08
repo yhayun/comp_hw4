@@ -1,0 +1,8 @@
+bool m() {
+
+	return "aa";
+}
+
+void main() {
+	return;
+}

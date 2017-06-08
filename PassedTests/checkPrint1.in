@@ -1,0 +1,5 @@
+
+//check Valid print
+void main() { 
+	print("someString");
+}

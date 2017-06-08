@@ -1,0 +1,3 @@
+void good(int a){
+	good(-1);
+}

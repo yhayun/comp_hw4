@@ -1,0 +1,6 @@
+---end scope---
+---end scope---
+c BOOL 0
+d BOOL 1
+---end scope---
+main ()->VOID 0

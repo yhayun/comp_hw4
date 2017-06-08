@@ -1,0 +1,9 @@
+int ma(int a){
+	int x;
+	return 0;
+}
+
+int fo(int a){
+	double x = ma(5);
+	return 0;
+}

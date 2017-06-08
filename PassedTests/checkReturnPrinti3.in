@@ -1,0 +1,4 @@
+void main() { 
+	int c;
+	byte i = printi(2);
+}

@@ -1,0 +1,13 @@
+//should pass
+void printOk(bool isOk) {
+    if (isOk) print("ok");
+}
+
+void main()
+{
+	
+		int c =5;
+	if (c)
+		int d = 6;
+    int x = 4;
+}

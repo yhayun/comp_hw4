@@ -1,0 +1,8 @@
+
+//Check valid while
+void main() { 
+	while (true) { 
+		return;
+	}
+	int d = 3;
+}

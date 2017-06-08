@@ -1,0 +1,20 @@
+#!/bin/bash
+
+chmod 777 *
+clear
+make
+echo " --------------------" 
+echo
+echo "Running tests for bonus part 2:"
+echo "**************************"
+        for i in `seq 1 14`;
+        do
+
+		echo
+		echo
+                echo "test:" $i
+		cat tests/t${i} | head -n 1 
+		echo "-----------------"
+		./hw4 < tests/t${i}
+        done   
+

@@ -1,0 +1,8 @@
+
+void main() {
+	int c;
+	if (c==c) { 
+			c = 2;
+			d = 2; //undef
+	} 
+}

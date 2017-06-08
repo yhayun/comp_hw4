@@ -1,0 +1,24 @@
+
+
+//Check that no new scope was opened all cases of "switch" other than setting a new variable
+
+void func1() { 
+	return;
+}
+
+void func2(int a) { 
+	return;
+}
+
+int func3(int a) { 
+	 return 3;
+}
+
+void main() {
+	int a;
+	int c;
+	
+	switch(func0()) { //undef
+		case 2: func4(); break;
+	};
+}

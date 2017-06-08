@@ -1,0 +1,9 @@
+void func("aa" s){
+
+	return;
+}
+
+void main() {
+
+	return;
+}

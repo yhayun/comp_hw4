@@ -1,0 +1,19 @@
+void good(int a, int bb){
+	bool t;
+	byte c = 100 b;
+	if(t) byte cc = 100 b;
+	if(t) int r;
+	while(true){
+		int gg = 8;
+		byte rt = 100 b;
+		bool ee = false;
+		int ss = gg;
+		gg = gg+1;
+		bool ww = not ee;
+	}
+	return 0;
+}
+
+void main(){
+	return;	
+}

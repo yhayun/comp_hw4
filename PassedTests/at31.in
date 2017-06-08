@@ -1,0 +1,13 @@
+int good(int a, int bb){
+	return bb;
+}
+
+int get(){
+	return good(4,5);
+}
+
+
+void main(){
+	byte a = get();
+	return;	
+}

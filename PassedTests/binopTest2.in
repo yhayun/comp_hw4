@@ -1,0 +1,7 @@
+//not valid inputs
+void main() {
+	int a;
+	byte c;
+
+	byte e  = a + c;
+}

@@ -1,0 +1,13 @@
+void good(){
+	int a;
+	int bbb;
+	byte c;
+	bool d;
+}
+
+void main(){
+	int aa;
+	int bb;
+	byte cc;
+	bool dd;
+}

@@ -1,0 +1,10 @@
+void main() { 
+	byte a; 
+	bool c;
+
+	bool d = 
+	c or a;
+	if (c and a) {
+		return;
+	}
+}

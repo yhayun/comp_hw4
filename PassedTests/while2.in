@@ -1,0 +1,42 @@
+
+
+//Check that no new scope was opened all cases of "while" other than setting a new variable
+
+void func1() { 
+	return;
+}
+
+void func2(int a) { 
+	return;
+}
+
+int func3(int a) { 
+	 return 3;
+}
+
+void main() {
+	int a;
+	int c;
+	//Next cases should not open a new scope
+	while (2 == 2)  a = 2;
+
+	while (4 == 4)  func1();
+
+	while (2 == 2)  return;
+
+	while (2 == 2) while (3 == 3) while (3 == 3) c = 2; 
+	                   
+	while (1 == 1) if (0 == 0) return;
+
+	while (2 == 2) switch (a) { 
+							case 2: func1(); 
+							        break;
+						 };
+
+	//next lines should open a new scope
+	while (2==2) int d = 2;
+	while (2==2) int e;
+	while (2==2) { 
+					int e;
+				  }
+}

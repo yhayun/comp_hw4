@@ -1,0 +1,4 @@
+
+byte main(){ 
+	return 100 b;
+}

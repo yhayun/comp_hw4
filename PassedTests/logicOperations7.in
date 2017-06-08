@@ -1,0 +1,10 @@
+void main() { 
+	int a; 
+	bool c;
+
+	bool d = 
+	c and a;
+	if (c and a) {
+		return;
+	}
+}

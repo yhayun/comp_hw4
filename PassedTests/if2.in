@@ -1,0 +1,31 @@
+
+//check different "if" boolean expressions:
+void main() { 
+	int a = 2;
+	int c = 2;
+	if (a==c) { 
+		return;
+	}
+	
+	if (a>c) { 
+		return;
+	}
+	
+	if (a<c) { 
+		return;
+	}
+	
+	if (a!=c) { 
+		return;
+	}
+
+	if (a>=c) { 
+		return;
+	}
+
+	if (a<=c) { 
+		return;
+	}
+
+	int d = 3;
+}

@@ -1,0 +1,4 @@
+int ma(int a){
+	double x;
+	return 0;
+}

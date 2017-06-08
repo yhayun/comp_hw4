@@ -1,0 +1,3 @@
+byte good(){
+	return true <= 6;
+}

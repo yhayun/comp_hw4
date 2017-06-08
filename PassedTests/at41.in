@@ -1,0 +1,30 @@
+bool good(int a, int bb){
+	bool t;
+	byte c = 100 b;
+	if(t) byte cc = 100 b;
+	if(t) int r;
+	while(true or false){
+		bool gg = good(8,3);
+		int rt = 100 b;
+	}
+	return false;
+}
+
+bool get(){
+	return good(4,5);
+}
+
+void main(){
+	byte a = 100 b;
+	a = get() or true;
+	bool tt = (true);
+	bool ff = (6 >= 8);
+	if(4 > 5) int d = 11;
+	int d = 12;
+	int x = 4;
+	a = not get();
+	a = not good(4,5);
+	a = get() or good(4,5);
+	a = good(4,5) and get();
+	return;	
+}

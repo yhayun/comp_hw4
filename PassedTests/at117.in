@@ -1,0 +1,7 @@
+string function(){
+	return "aa";
+}
+
+void main(){
+	return;
+}

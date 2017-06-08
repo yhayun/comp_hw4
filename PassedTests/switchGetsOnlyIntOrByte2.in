@@ -1,0 +1,8 @@
+void main() {
+
+	bool a;
+
+	switch(a) {
+		case 2: return; break;
+	};
+}

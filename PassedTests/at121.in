@@ -1,0 +1,3 @@
+int func(double f){
+	return 0;
+}

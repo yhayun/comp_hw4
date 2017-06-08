@@ -1,0 +1,6 @@
+void main() {
+
+	if ("aa") {
+		return;
+	}
+}

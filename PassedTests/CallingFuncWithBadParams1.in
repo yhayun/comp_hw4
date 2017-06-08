@@ -1,0 +1,7 @@
+void func() {
+	return;
+}
+
+void main() { 
+	func(); //valid call
+}

@@ -1,0 +1,5 @@
+
+//check not valid print
+void main() { 
+	printi(2,"abc");
+}

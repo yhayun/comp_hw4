@@ -1,0 +1,8 @@
+int goo(){
+	return 0;
+}
+
+int func(int y){
+	bool goo;
+	return 1;
+}

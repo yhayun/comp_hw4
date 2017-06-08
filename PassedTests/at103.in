@@ -1,0 +1,3 @@
+int func(bool b){
+	return 0;
+}

@@ -1,0 +1,4 @@
+void main() {
+	int x;
+	if (3 == 3) int cc = 2;
+}
