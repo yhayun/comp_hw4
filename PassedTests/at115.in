@@ -1,5 +1,0 @@
-int goo;
-
-int func(){
-	goo(); 
-}

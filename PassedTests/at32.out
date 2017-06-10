@@ -1,5 +1,0 @@
----end scope---
-a INT -1
-bb INT -2
----end scope---
-line 11: type mismatch

@@ -1,7 +1,0 @@
-
-void main() {
-	int c;
-	switch(a) { //first undef
-		case 2: func1(); break;
-	};
-}

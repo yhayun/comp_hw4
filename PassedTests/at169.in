@@ -1,7 +1,0 @@
-int func(){
-	int a;
-	switch(a){
-		case true:
-			return 0;	
-	}
-}

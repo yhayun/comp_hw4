@@ -1,7 +1,0 @@
-void func(int a) {
-	return;
-}
-
-void main() { 
-	func(); //wrong number of params
-}

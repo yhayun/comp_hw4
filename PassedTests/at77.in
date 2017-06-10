@@ -1,3 +1,0 @@
-bool good(){
-	return 3 >= false;
-}

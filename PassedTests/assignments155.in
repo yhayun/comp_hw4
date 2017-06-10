@@ -1,6 +1,0 @@
-
-//not valid assignment:
-void main() { 
-	bool a;
-	bool c = 1 b;
-}

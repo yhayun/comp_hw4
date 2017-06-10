@@ -1,3 +1,0 @@
-int good(byte u, bool j){
-	int b = 8;
-}

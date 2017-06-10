@@ -1,7 +1,0 @@
-void func(bool a) { 
-	return;
-}
-
-void main() {
-	func("aa");
-}

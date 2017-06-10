@@ -1,8 +1,0 @@
-void func(int a) {
-	return;
-}
-
-void main() { 
-	bool c;
-	func(c); //not valid type
-}

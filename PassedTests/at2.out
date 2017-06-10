@@ -1,6 +1,0 @@
----end scope---
-a INT 0
----end scope---
-bb INT 0
-a BYTE 1
-line 11: unexpected break statement

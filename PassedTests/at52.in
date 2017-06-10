@@ -1,3 +1,0 @@
-int good(int a, byte rr){
-	int ss = a == rr;
-}

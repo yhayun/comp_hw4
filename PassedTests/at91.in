@@ -1,3 +1,0 @@
-byte good(){
-	return true >= 6 b;
-}

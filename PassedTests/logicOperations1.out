@@ -1,7 +1,0 @@
----end scope---
----end scope---
-a BOOL 0
-c BOOL 1
-d BOOL 2
----end scope---
-main ()->VOID 0

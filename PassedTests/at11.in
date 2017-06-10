@@ -1,7 +1,0 @@
-int good(int a){
-	return a;
-}
-
-void main(){
-	return;
-}

@@ -1,7 +1,0 @@
-
-void main() {
-
-	byte a = 255 b;
-	a = 127 b;
-	a = 0 b;
-}

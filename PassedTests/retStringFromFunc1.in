@@ -1,8 +1,0 @@
-void m() {
-
-	return "aa";
-}
-
-void main() {
-	return;
-}

@@ -1,5 +1,0 @@
-//not valid assignment:
-void main() { 
-	byte a;
-	byte c = "st";
-}

@@ -1,7 +1,0 @@
-byte func(){
-	return 100 b;
-}
-
-void main(){
-	int a = func();
-}

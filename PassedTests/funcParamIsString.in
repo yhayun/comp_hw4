@@ -1,9 +1,0 @@
-void func(string s){
-
-	return;
-}
-
-void main() {
-
-	return;
-}

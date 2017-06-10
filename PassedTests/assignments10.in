@@ -1,6 +1,0 @@
-
-//not valid assignment:
-void main() { 
-	int a;
-	a = 100 b;
-}

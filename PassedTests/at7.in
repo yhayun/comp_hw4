@@ -1,9 +1,0 @@
-void good(int a, bool check, byte hh){
-	int x;
-	return;
-}
-
-void main(){
-	good(4,false, 100 b);
-	return;
-}

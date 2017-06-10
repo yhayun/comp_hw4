@@ -1,8 +1,0 @@
-void print() { 
-	return;
-}
-
-void main() { 
-	int c;
-	byte i = print("aa");
-}

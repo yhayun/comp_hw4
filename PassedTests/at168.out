@@ -1,6 +1,0 @@
----end scope---
----end scope---
-a INT 0
----end scope---
-func ()->BYTE 0
-main ()->VOID 0

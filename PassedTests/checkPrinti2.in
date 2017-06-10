@@ -1,5 +1,0 @@
-
-//check not valid print
-void main() { 
-	printi(1,true);
-}
