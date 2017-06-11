@@ -15,6 +15,7 @@ using namespace output;
 
 extern int yylex();
 extern int yylineno;
+extern char* yytext;
 
 //DONT PUT ANY NON FUNCTION TYPES BELOW BYTE!!!!!	
 	enum ttypes{
@@ -441,8 +442,13 @@ Funcs 		:	FuncDecl Funcs {
 	                         st.check_for_main();
                              st.big_scope_flag = true;
 							}
-			| /* epsilon*/ {}
-	  		;
+                        | /* epsilon*/ {
+                                        //check if file is empty - error is missing main;
+                                        if(strlen(yytext) == 0 ){
+                                                st.check_for_main();
+                                        }
+                                }
+                        ;
 
 FuncDecl     : FuncDecl1 LBRACE Statements RBRACE{	
 			     if (!$3.have_sure_exit && st.func_return != TYPE_FUNC_VOID){
